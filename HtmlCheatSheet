@@ -2,10 +2,17 @@
 <html lang = "en">
     <head>
         <meta charset="UTF-8">
-        <title> How to take a screenshot!</title>
+        <title></title>
+        <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">">
     </head>
     <body>
-        <hi>You can use either Command-Shift-3 for the entire page, Command-Shift-4 to select what you want to screenshot, or Command-Shift-5 to open the screenshot menu.</hi>
+        <h1>How to take a screenshot!</h1>
+        <h2>There are three options for taking a screenshot.</h2>
+        <p>Here are the three options:</p>
+    <ul> 
+        <li>Command-Shift-3 for the entire page</li>
+        <li>Command-Shift-4 to select what you want to screenshot</li>
+        <li>Command-Shift-5 to open the screenshot menu</li>
+    </ul>
     </body>
 </html>
-
