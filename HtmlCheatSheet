@@ -2,10 +2,10 @@
 <html lang = "en">
     <head>
         <meta charset="UTF-8">
-        <title> HTML Test</title>
+        <title> How to take a screenshot!</title>
     </head>
     <body>
-        <hi> it works!</hi>
+        <hi>You can use either Command-Shift-3 for the entire page, Command-Shift-4 to select what you want to screenshot, or Command-Shift-5 to open the screenshot menu.</hi>
     </body>
 </html>
 
