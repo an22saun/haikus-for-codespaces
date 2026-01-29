@@ -2,5 +2,10 @@
 <html lang = "en">
     <head>
         <meta charset="UTF-8">
+        <title> HTML Test</title>
     </head>
+    <body>
+        <hi> it works!</hi>
+    </body>
 </html>
+
