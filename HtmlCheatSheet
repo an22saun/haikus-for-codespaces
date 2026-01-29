@@ -7,8 +7,8 @@
     </head>
     <body>
         <h1>How to take a screenshot!</h1>
-        <h2>There are three options for taking a screenshot.</h2>
-        <p>Here are the three options:</p>
+        <p>There are three options for taking a screenshot.</p>
+        <h2>Here are the three options:</h2>
     <ul> 
         <li>Command-Shift-3 for the entire page</li>
         <li>Command-Shift-4 to select what you want to screenshot</li>
